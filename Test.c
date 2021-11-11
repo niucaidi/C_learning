@@ -3,5 +3,8 @@
 int main()
 {
 	printf("Hello word£¡");
+	printf("Hello word£¡");
+	printf("Hello word£¡");
+	printf("Hello word£¡");
 	return 0;
 }
