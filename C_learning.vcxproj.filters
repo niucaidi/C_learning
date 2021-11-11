@@ -18,8 +18,5 @@
     <ClCompile Include="Test.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="这真的是一个测试.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
